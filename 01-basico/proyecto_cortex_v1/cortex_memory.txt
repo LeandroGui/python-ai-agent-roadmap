@@ -1,0 +1,32 @@
+[2026-01-07 02:23:30] User: hola
+[2026-01-07 02:23:30] Cortex: Hola, Leandro. Soy Cortex. ¿Qué datos analizamos hoy?
+[2026-01-07 02:23:53] User: memoria
+[2026-01-07 02:23:53] Cortex: He recordado 3 eventos pasados. Últimos 3: [2026-01-07 02:23:30] User: hola [2026-01-07 02:23:30] Cortex: Hola, Leandro. Soy Cortex. ¿Qué datos analizamos hoy? [2026-01-07 02:23:53] User: memoria 
+[2026-01-07 02:25:11] User: analizar: Como influyen los Agentes de IA actualmente en 2026.
+[2026-01-07 02:25:11] Cortex: 📊 REPORTE DE ANÁLISIS: - Palabras: 9 - ¿Pregunta?: False - Datos numéricos: True
+[2026-01-07 02:25:52] User: memoria
+[2026-01-07 02:25:52] Cortex: He recordado 7 eventos pasados. Últimos 3: [2026-01-07 02:25:11] User: analizar: Como influyen los Agentes de IA actualmente en 2026. [2026-01-07 02:25:11] Cortex: 📊 REPORTE DE ANÁLISIS: - Palabras: 9 - ¿Pregunta?: False - Datos numéricos: True [2026-01-07 02:25:52] User: memoria 
+[2026-01-07 02:49:28] User: hola
+[2026-01-07 02:49:28] Cortex: Hola, Leandro. Soy Cortex. ¿Qué datos analizamos hoy?
+[2026-01-07 02:49:31] User: memoria
+[2026-01-07 02:49:31] Cortex: He recordado 11 eventos pasados. Últimos 3: [2026-01-07 02:49:28] User: hola [2026-01-07 02:49:28] Cortex: Hola, Leandro. Soy Cortex. ¿Qué datos analizamos hoy? [2026-01-07 02:49:31] User: memoria 
+[2026-01-07 02:50:24] User: analizar
+[2026-01-07 02:50:24] Cortex: Comando no reconocido. Prueba: 'hola', 'memoria', o 'analizar: [texto]'.
+[2026-01-07 02:50:31] User: analizar:
+[2026-01-07 02:50:31] Cortex: 📊 REPORTE DE ANÁLISIS: - Palabras: 0 - ¿Pregunta?: False - Datos numéricos: False
+[2026-01-07 02:50:58] User: analizar: Como influyen los Agentes de IA en el 2026?
+[2026-01-07 02:50:58] Cortex: 📊 REPORTE DE ANÁLISIS: - Palabras: 9 - ¿Pregunta?: True - Datos numéricos: True
+[2026-01-07 02:51:18] User: memoria
+[2026-01-07 02:51:18] Cortex: He recordado 19 eventos pasados. Últimos 3: [2026-01-07 02:50:58] User: analizar: Como influyen los Agentes de IA en el 2026? [2026-01-07 02:50:58] Cortex: 📊 REPORTE DE ANÁLISIS: - Palabras: 9 - ¿Pregunta?: True - Datos numéricos: True [2026-01-07 02:51:18] User: memoria 
+[2026-01-07 03:27:11] User: hola
+[2026-01-07 03:27:11] Cortex: Hola, Leandro. Soy Cortex. ¿Qué datos analizamos hoy?
+[2026-01-07 03:27:14] User: memoria
+[2026-01-07 03:27:14] Cortex: He recordado 23 eventos pasados. Últimos 3: [2026-01-07 03:27:11] User: hola [2026-01-07 03:27:11] Cortex: Hola, Leandro. Soy Cortex. ¿Qué datos analizamos hoy? [2026-01-07 03:27:14] User: memoria 
+[2026-01-07 03:27:47] User: analizar: Porque el uso de Agentes en 2026 es fundamental?
+[2026-01-07 03:27:47] Cortex: 📊 REPORTE DE ANÁLISIS: - Palabras: 9 - ¿Pregunta?: True - Datos numéricos: True
+[2026-01-07 03:27:59] User: memoria
+[2026-01-07 03:27:59] Cortex: He recordado 27 eventos pasados. Últimos 3: [2026-01-07 03:27:47] User: analizar: Porque el uso de Agentes en 2026 es fundamental? [2026-01-07 03:27:47] Cortex: 📊 REPORTE DE ANÁLISIS: - Palabras: 9 - ¿Pregunta?: True - Datos numéricos: True [2026-01-07 03:27:59] User: memoria 
+[2026-01-07 03:28:30] User: analizar: estamos a punto de lograr la AGI?
+[2026-01-07 03:28:30] Cortex: 📊 REPORTE DE ANÁLISIS: - Palabras: 7 - ¿Pregunta?: True - Datos numéricos: False
+[2026-01-07 03:28:34] User: memoria
+[2026-01-07 03:28:34] Cortex: He recordado 31 eventos pasados. Últimos 3: [2026-01-07 03:28:30] User: analizar: estamos a punto de lograr la AGI? [2026-01-07 03:28:30] Cortex: 📊 REPORTE DE ANÁLISIS: - Palabras: 7 - ¿Pregunta?: True - Datos numéricos: False [2026-01-07 03:28:34] User: memoria 
