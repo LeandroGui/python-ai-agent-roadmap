@@ -1,61 +1,94 @@
-# 🧠 Python for AI & Agents: From Zero to Agentic Systems
+# 🧠 Python AI Agent Roadmap: From Script to Framework
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
-![AI Agents](https://img.shields.io/badge/AI-Agents-orange?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data-Science-green?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Colab-Notebooks-orange?style=for-the-badge&logo=googlecolab)
+![AI Agents](https://img.shields.io/badge/AI-Agents-purple?style=for-the-badge)
 
-## 📌 Sobre este Repositorio
+## 📌 Visión General
 
-Este repositorio documenta una ruta de aprendizaje técnica y aplicada para dominar Python, con un enfoque específico en **Ingeniería de Datos, Inteligencia Artificial y Sistemas Agénticos**.
+Este repositorio no es solo una colección de tutoriales de Python. Es un **Roadmap de Ingeniería** diseñado con un objetivo claro: **Construir un Framework de Agentes de IA desde cero.**
 
-A diferencia de los cursos genéricos de programación, este roadmap está estructurado para transformar conceptos de sintaxis en **herramientas para construir IAs**. Pasamos de variables simples a tensores, y de funciones básicas a agentes autónomos capaces de razonar y usar herramientas.
+A través de 5 niveles progresivos, evolucionaremos desde la sintaxis básica hasta la creación de un sistema capaz de razonar, planificar y ejecutar tareas complejas (Agentes). Todo el código está documentado y preparado para ejecutarse en **Google Colab**.
 
-## 🗺️ Mapa de Ruta (Roadmap)
+## 🧵 El Hilo Conductor: "Project Cortex"
 
-El repositorio está organizado en niveles progresivos. Cada nivel contiene scripts de **Teoría** (conceptos aislados) y un **Proyecto Integrador** (aplicación real).
-
-### 🔹 Nivel 1: Los Fundamentos del Dato
-**Enfoque:** Lógica algorítmica y manipulación de estructuras de datos en memoria.
-* **Conceptos:** Tipos de datos, Control de flujo, Colecciones, Funciones.
-* **🎯 Proyecto Integrador:** `Text Analyzer CLI` (Procesamiento de texto crudo y estadística básica).
-
-### 🔹 Nivel 2: Ingeniería de Software & Estructura
-**Enfoque:** Programación Orientada a Objetos (POO), persistencia y buenas prácticas.
-* **Conceptos:** Clases, Herencia, Manejo de Archivos (JSON/CSV), Virtual Environments, Logs.
-* **🎯 Proyecto Integrador:** `Academic Data Manager` (Sistema CRUD con persistencia de datos).
-
-### 🔹 Nivel 3: Optimización y Validación (Pre-Agentic)
-**Enfoque:** Preparando el terreno para la IA (Validación estricta y Concurrencia).
-* **Conceptos:** Pydantic (Validación), Asyncio (Concurrencia), Decoradores, Testing.
-* **🎯 Proyecto Integrador:** `Async Data Pipeline` (Simulador de ingesta de datos validada asíncrona).
-
-### 🔹 Nivel 4: Data Science e Inteligencia Artificial
-**Enfoque:** El ecosistema `.agnt` (NumPy, Pandas, LLMs).
-* **4a. Ciencia de Datos:** Análisis exploratorio y visualización.
-* **4b. Agentes (From Scratch):** Construcción de un bucle de razonamiento (ReAct) sin frameworks.
-* **4c. Frameworks:** Implementación profesional con LangGraph / CrewAI.
-* **🎯 Proyecto Integrador Final:** `University Tutor Agent` (Agente capaz de resolver dudas académicas usando herramientas).
+Para evitar el aprendizaje fragmentado, todos los niveles contribuyen a un único mega-proyecto llamado **Cortex**.
+* En el Nivel 1, Cortex será una simple línea de comandos.
+* En el Nivel 2, tendrá estructura interna (Clases).
+* En el Nivel 3, aprenderá a planificar (Grafos y Algoritmos).
+* En el Nivel 4, se volverá asíncrono y robusto.
+* En el Nivel 5, le daremos cerebro (LLMs) y ojos (Data Science).
 
 ---
 
-## 🛠️ Estructura de Directorios
+## 🗺️ Mapa de Ruta (Roadmap)
+
+### 🔹 Nivel 1: Básico (El Núcleo Lógico)
+*Fundamentos de la manipulación de memoria y flujo.*
+* **Temas:** Sintaxis, Variables, Control de Flujo, Funciones, Colecciones, Manejo de Errores.
+* **🛠️ Proyecto Integrador:** `Cortex CLI` - Una consola interactiva para procesamiento de comandos básicos.
+
+### 🔹 Nivel 2: OOP (Arquitectura Modular)
+*Encapsulamiento y diseño de software escalable.*
+* **Temas:** Clases, Objetos, Herencia, Polimorfismo, Métodos Mágicos.
+* **🛠️ Proyecto Integrador:** `Cortex Entity System` - Refactorización del núcleo usando un sistema de Entidades y Tareas.
+
+### 🔹 Nivel 3: DSA (Algoritmia para Agentes)
+*Estructuras de datos para la toma de decisiones eficiente.*
+* **Temas:** Pilas, Colas, Matrices, Árboles, Grafos (DAGs), Algoritmos de Búsqueda y Recursión.
+* **🛠️ Proyecto Integrador:** `Cortex Orchestrator` - Implementación de un planificador de tareas basado en grafos y prioridades.
+
+### 🔹 Nivel 4: Avanzado (Eficiencia y Metaprogramación)
+*Optimización y herramientas de alto nivel.*
+* **Temas:** List Comprehensions, Generadores, Decoradores, Regex, Lambdas, Asincronía.
+* **🛠️ Proyecto Integrador:** `Cortex Async Pipeline` - Un sistema de procesamiento paralelo con validación de datos.
+
+### 🔹 Nivel 5: Especializado (La Mente Agéntica)
+*La convergencia de Datos e Inteligencia Artificial.*
+* **Temas:** Análisis de Datos (Pandas/Numpy), Ciencia de Datos, IA Generativa (LLMs), RAG, Sistemas Agénticos.
+* **🛠️ Proyecto Final:** `Cortex Agentic Framework` - Un marco de trabajo completo para crear agentes que analizan datos y toman decisiones autónomas.
+
+---
+
+## 📂 Estructura del Repositorio
+
+El contenido está organizado por niveles de competencia. Cada carpeta de nivel contiene dos subdirectorios principales: `notebooks` (Teoría práctica en Colab) y `proyecto_integrador` (La evolución del framework Cortex).
 
 ```text
 python-ai-agent-roadmap/
 │
-├── 01_nivel_basico/        # Fundamentos
-│   ├── teoria/
-│   └── proyecto_integrador/
+├── README.md               # Documentación general y Mapa de Ruta
+├── requirements.txt        # Dependencias globales del proyecto
+├── .gitignore              # Archivos ignorados por Git
 │
-├── 02_nivel_intermedio/    # POO y Persistencia
-│   ├── teoria/
-│   └── proyecto_integrador/
+├── 01_basico/              # [Nivel 1] Fundamentos Lógicos
+│   ├── notebooks/          # 📓 S01_sintaxis.ipynb, S02_control.ipynb...
+│   └── proyecto_cortex_v1/ # 🛠️ Cortex CLI (Script interactivo)
 │
-├── 03_nivel_avanzado/      # Async & Pydantic
-│   ├── teoria/
-│   └── proyecto_integrador/
+├── 02_oop/                 # [Nivel 2] Arquitectura & Objetos
+│   ├── notebooks/          # 📓 S01_clases.ipynb, S02_herencia.ipynb...
+│   └── proyecto_cortex_v2/ # 🛠️ Cortex Entity System (Estructura modular)
 │
-├── 04_nivel_agentes_ia/    # DS & AI Frameworks
-    ├── 04a_ciencia_datos/
-    ├── 04b_agente_scratch/
-    └── 04c_frameworks/
+├── 03_dsa/                 # [Nivel 3] Algoritmos & Estructuras
+│   ├── notebooks/          # 📓 S01_pilas_colas.ipynb, S03_grafos.ipynb...
+│   └── proyecto_cortex_v3/ # 🛠️ Cortex Orchestrator (Planificador)
+│
+├── 04_avanzado/            # [Nivel 4] Eficiencia & Python Moderno
+│   ├── notebooks/          # 📓 S01_asyncio.ipynb, S02_pydantic.ipynb...
+│   └── proyecto_cortex_v4/ # 🛠️ Cortex Async Pipeline (Motor concurrente)
+│
+└── 05_especializado/       # [Nivel 5] Data Science & AI Agents
+    ├── notebooks/          # 📓 S01_pandas_etl.ipynb, S02_llm_chain.ipynb...
+    └── proyecto_final/     # 🧠 Cortex Framework v1.0 (Sistema Agéntico Completo)
+```
+## 🚀 Cómo usar este repositorio
+
+Este repositorio está diseñado para seguirse secuencialmente.
+
+1.  **Navega a la carpeta del nivel:** Cada nivel tiene su propia carpeta (ej. `01_basico`).
+2.  **Abre los Notebooks:** Encontrarás enlaces directos para abrir los archivos `.ipynb` en **Google Colab**.
+3.  **Completa el Proyecto Integrador:** Al final de cada nivel, usa lo aprendido para construir la siguiente versión de *Cortex*.
+
+---
+
+*Desarrollado por [Leandro] - Licenciatura en Análisis y Gestión de Datos. Con el objetivo de democratizar la ingeniería de Agentes de IA.*
