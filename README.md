@@ -86,7 +86,7 @@ python-ai-agent-roadmap/
 Este repositorio está diseñado para seguirse secuencialmente.
 
 1.  **Navega a la carpeta del nivel:** Cada nivel tiene su propia carpeta (ej. `01_basico`).
-2.  **Abre los Notebooks:** Encontrarás enlaces directos para abrir los archivos `.ipynb` en **Google Colab**.
+2.  **Abre los Notebooks:** Encontrarás enlaces directos para abrir los archivos `.ipynb`.
 3.  **Completa el Proyecto Integrador:** Al final de cada nivel, usa lo aprendido para construir la siguiente versión de *Cortex*.
 
 ---
