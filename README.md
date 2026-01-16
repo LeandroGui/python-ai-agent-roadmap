@@ -6,7 +6,7 @@
 
 ## 📌 Visión General
 
-Este repositorio no es solo una colección de tutoriales de Python. Es un **Roadmap de Ingeniería** diseñado con un objetivo claro: **Construir un Framework de Agentes de IA desde cero.**
+Este repositorio no es solo una colección de tutoriales de Python. Es un **Roadmap de Ingeniería** diseñado con un objetivo claro: **Construir un Agente de IA desde cero.**
 
 A través de 5 niveles progresivos, evolucionaremos desde la sintaxis básica hasta la creación de un sistema capaz de razonar, planificar y ejecutar tareas complejas (Agentes). Todo el código está documentado y preparado para ejecutarse en **Google Colab**.
 
@@ -46,7 +46,7 @@ Para evitar el aprendizaje fragmentado, todos los niveles contribuyen a un únic
 ### 🔹 Nivel 5: Especializado (La Mente Agéntica)
 *La convergencia de Datos e Inteligencia Artificial.*
 * **Temas:** Análisis de Datos (Pandas/Numpy), Ciencia de Datos, IA Generativa (LLMs), RAG, Sistemas Agénticos.
-* **🛠️ Proyecto Final:** `Cortex Agentic Framework` - Un marco de trabajo completo para crear agentes que analizan datos y toman decisiones autónomas.
+* **🛠️ Proyecto Final:** `Cortex Agent` - Un marco de trabajo completo para crear un agente que analiza datos y realiza ejercicios de python, tomando decisiones autónomas.
 
 ---
 
