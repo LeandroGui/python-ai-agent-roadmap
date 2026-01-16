@@ -17,7 +17,7 @@ Para evitar el aprendizaje fragmentado, todos los niveles contribuyen a un únic
 * En el Nivel 2, tendrá estructura interna (Clases).
 * En el Nivel 3, aprenderá a planificar (Grafos y Algoritmos).
 * En el Nivel 4, se volverá asíncrono y robusto.
-* En el Nivel 5, le daremos cerebro (LLMs) y ojos (Data Science) y capacidad de ejecución de código real (herramienta `python_tutor_exec`).
+* En el Nivel 5, le daremos cerebro (LLMs), ojos (Data Science) y capacidad de ejecución de código real (herramienta `python_tutor_exec`).
 
 ---
 
