@@ -1,4 +1,4 @@
-# 🧠 Python AI Agent Roadmap: From Script to Framework
+# 🧠 Python AI Agent Roadmap: From Script to Agent
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![Google Colab](https://img.shields.io/badge/Colab-Notebooks-orange?style=for-the-badge&logo=googlecolab)
