@@ -1,0 +1,37 @@
+[
+    {
+        "timestamp": "2026-01-08 04:12:35.777305",
+        "input": "/analizar Hola IA quiero saber que es la ciencia de datos?",
+        "response": "📊 REPORTE: {'tool': 'analyzer_v1', 'words': 10, 'uppercase': 3, 'is_question': True}"
+    },
+    {
+        "timestamp": "2026-01-08 04:13:05.765228",
+        "input": "memoria",
+        "response": "Comando no entendido. Prueba '/analizar [texto]' o '/memoria'."
+    },
+    {
+        "timestamp": "2026-01-08 04:13:09.789648",
+        "input": "/memoria",
+        "response": "🧠 Tengo 2 recuerdos almacenados."
+    },
+    {
+        "timestamp": "2026-01-08 04:13:35.422360",
+        "input": "/analizar Puedes explicarme como desarrollar un agente?",
+        "response": "📊 REPORTE: {'tool': 'analyzer_v1', 'words': 6, 'uppercase': 1, 'is_question': True}"
+    },
+    {
+        "timestamp": "2026-01-08 04:13:45.118075",
+        "input": "/memoria",
+        "response": "🧠 Tengo 4 recuerdos almacenados."
+    },
+    {
+        "timestamp": "2026-01-08 04:14:16.842276",
+        "input": "/analizar Quiero saber que es un LLM?",
+        "response": "📊 REPORTE: {'tool': 'analyzer_v1', 'words': 6, 'uppercase': 4, 'is_question': True}"
+    },
+    {
+        "timestamp": "2026-01-08 04:14:28.387192",
+        "input": "/memoria",
+        "response": "🧠 Tengo 6 recuerdos almacenados."
+    }
+]
